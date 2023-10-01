@@ -1,0 +1,56 @@
+Partida,Jogadore(a)s,Oponentes,Amigos
+1,"Gaudencio, Xiru",24,0
+2,"Xiru, Peao",14,24
+3,"Peao, Ze",24,4
+4,"Prenda, Estanciera",24,8
+5,"Estanciera, Xiru",9,24
+6,"Mafalda, Ze",9,24
+7,"Xiru, Peao",24,2
+8,"Gaudencio, Peao",24,0
+9,"Xiru, Prenda, ",4,24
+10,"Xiru, Estanciera, ",0,24
+11,"Estanciera, Xiru, ",3,24
+12,"Xiru, Ze, ",24,3
+13,"Gaudencio, Prenda, ",24,4
+14,"Estanciera, Francois, ",5,24
+15,"Peao, Estanciera, ",8,24
+16,"Estanciera, Francois, ",24,4
+17,"Gaudencio, Estanciera, ",13,24
+18,"Estanciera, Francois, ",13,24
+19,"Peao, Mafalda, ",7,24
+20,"Peao, Prenda, ",15,24
+21,"Mafalda, Gaudencio, ",2,24
+22,"Peao, Ze, ",24,6
+23,"Peao, Prenda, ",15,24
+24,"Prenda, Estanciera, ",24,10
+25,"Peao, Prenda, ",24,7
+26,"Peao, Ze, ",24,8
+27,"Gaudencio, Estanciera, ",24,7
+28,"Peao, Prenda",1,24
+29,"Mafalda, Ze, ",24,9
+30,"Gaudencio, Estanciera, ",4,24
+31,"Peao, Ze, ",24,4
+32,"Peao, Mafalda, ",24,1
+33,"Mafalda, Ze, ",24,4
+34,"Prenda, Estanciera, ",13,24
+35,"Peao, Prenda, ",24,0
+36,"Mafalda, Gaudencio, ",4,24
+37,"Peao, Ze, ",24,2
+38,"Peao, Prenda, ",5,24
+39,"Prenda, Estanciera",24,0
+40,"Peao, Prenda",11,24
+41,"Prenda, Estanciera, ",11,24
+42,"Peao, Prenda, ",22,24
+43,"Peao, Ze, ",24,3
+44,"Gaudencio, Estanciera, ",10,24
+45,"Peao, Prenda",12,24
+46,"Mafalda, Ze, ",2,24
+47,"Gaudencio, Estanciera, ",24,2
+48,"Peao, Ze, ",9,24
+49,"Peao, Mafalda, ",6,24
+50,"Mafalda, Ze, ",15,24
+51,"Prenda, Estanciera, ",24,3
+52,"Peao, Prenda, ",11,24
+53,"Mafalda, Gaudencio, ",8,24
+54,"Peao, Ze, ",1,24
+55,"Peao, Prenda, ",6,24
